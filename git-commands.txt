@@ -1,3 +1,26 @@
+git remote add <repolocal>   <repo remoto>
+
+
+git remote -v 
+
+
+git clone <repo remoto>
+
+
+git init --bare  (cria repositorio bare)
+
+
+git push <repo remoto> <branch>
+
+
+git pull <repo remoto>
+
+
+
+
+
+
+
 https://devhints.io/git-log
 
 
