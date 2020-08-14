@@ -35,6 +35,15 @@ git rebase <nome da branch>
 https://devhints.io/git-log
 
 
+// Para desfazer alterações na branch nao adicionadas
+    git checkput -- <nome do arquivo>
+
+// Para desadicionar arquivos adicionados, mas nao commitados
+   git reset <nome do arquivo     -- depois tem de deschecoutar
+
+
+
+
 Revision ranges
 git log master             # branch
 git log origin/master      # branch, remote
