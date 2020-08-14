@@ -13,11 +13,15 @@ git init --bare  (cria repositorio bare)
 git push <repo remoto> <branch>
 
 
+git branch <nome_da_branch>
+
 git pull <repo remoto>
 
+git checkout -b lista
 
+git log
 
-
+git add <arquivo>
 
 
 
