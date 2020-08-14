@@ -24,9 +24,13 @@ git checkout -b lista
 
 git log
 
+git log -p
+
 git add <arquivo>
 
+git log --graph
 
+git rebase <nome da branch>
 
 https://devhints.io/git-log
 
