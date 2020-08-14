@@ -15,6 +15,9 @@ git push <repo remoto> <branch>
 
 git branch <nome_da_branch>
 
+
+git checkout <nome da branch> -- posiciona na brach
+
 git pull <repo remoto>
 
 git checkout -b lista
