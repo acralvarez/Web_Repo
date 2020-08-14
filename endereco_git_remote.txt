@@ -1,0 +1,1 @@
+192.168.1.60  git_remote_docs (repositorio do git hub)
