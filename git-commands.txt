@@ -41,7 +41,8 @@ https://devhints.io/git-log
 // Para desadicionar arquivos adicionados, mas nao commitados
    git reset <nome do arquivo     -- depois tem de deschecoutar
 
-
+// Para dar rollback em uma alteracao commitada
+   git revert <hash key obtida com git log>
 
 
 Revision ranges
