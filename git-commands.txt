@@ -30,12 +30,17 @@ git status /
 
 git add <arquivo>
 
-git log --graph
+git log --graph  
 
 git rebase <nome da branch>
 
-git stash / git stash list / git stash apply 0 / git stash pop 
+git stash / git stash list / git stash apply 0 / git stash pop / git stash drop 
 
+git reset HEAD <arquivos>
+
+git revert
+
+git diff  <id>..<id>
 
 
 https://devhints.io/git-log
@@ -110,7 +115,8 @@ git log --pretty="format:%H"
 
 #See the next tables on format variables.
 
-#Hash Commit
+#Hash 
+Commit
 	%H	commit hash
 	%h	(abbrev) commit hash
 #Tree
