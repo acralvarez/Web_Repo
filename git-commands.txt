@@ -40,7 +40,10 @@ git reset HEAD <arquivos>
 
 git revert
 
-git diff  <id>..<id>
+git diff  <id>..<id> / git diff sozinho exibe diferencas do que foi alterado mas ainda noa adicionado
+
+git tag -a / git tag -m "dados da versão"
+
 
 
 https://devhints.io/git-log
